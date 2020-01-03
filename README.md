@@ -9,8 +9,8 @@ Auto Create Golang Struct (Models) from local database
 ## Command Format :
 --init <db_user>,<db_password>,<database> --tbl <table_name>
 
-1. Create for selected table only
+### 1. Create for selected table only
 --init <db_user>,<db_password>,<database> --tbl <table_name>
 
-2. Create for all tables on database
+### 2. Create for all tables on database
 --init <db_user>,<db_password>,<database> --tbl all
