@@ -21,7 +21,7 @@ Example: --init root,root,MyDataBase --tbl tbl_user --package domain
 <br>Without --package, package will be created as models
 
 
-### Feature Update
+# Feature Update
 - <b>Go-lint</b> -> Exported type should have comment or be unexported (go-lint)<br>
 - <b>Go-lint</b> -> Struct field with "id" prefix should be UpperCase (go-lint)<br>
 
