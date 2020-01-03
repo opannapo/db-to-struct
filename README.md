@@ -18,7 +18,7 @@ Auto Create Golang Struct (Models) from local database
 ### 3. Optional Parameter
 ### --package
 Example: --init root,root,MyDataBase --tbl tbl_user --package domain
-Without --package, package will be created as models
+<br>Without --package, package will be created as models
 
 
 # Video (Example : How to use)
