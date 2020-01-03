@@ -19,6 +19,6 @@ Auto Create Golang Struct (Models) from local database
 https://www.youtube.com/watch?v=2Q5F_4Yv4oU
 
 <a href="https://www.youtube.com/watch?v=2Q5F_4Yv4oU" target="_blank">
-<img src="https://www.youtube.com/watch?v=2Q5F_4Yv4oU/maxresdefault.jpg" 
+<img src="https://img.youtube.com/vi/2Q5F_4Yv4oU/maxresdefault.jpg" 
 alt="IMAGE ALT TEXT HERE" width="50%" height="50%" border="10" /></a>
  
